@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6542acde-3eaa-44bf-a975-831ea20f1bdc" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/yandex/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/yandex/Test2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +43,7 @@
     "nodejs_package_manager_path": "npm"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Test2_2">
+  <component name="RunManager" selected="Application.Test3">
     <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.yandex.Test1" />
       <module name="tinckoff" />
@@ -84,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.tinkoff.Test4" />
+    <configuration name="Test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.yandex.Test3" />
       <module name="tinckoff" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.tinkoff.*" />
+          <option name="PATTERN" value="org.example.yandex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test3" />
         <item itemvalue="Application.Test2_2" />
         <item itemvalue="Application.Test2" />
         <item itemvalue="Application.Test1" />
         <item itemvalue="Application.Test6" />
-        <item itemvalue="Application.Test4" />
       </list>
     </recent_temporary>
   </component>
@@ -130,7 +129,7 @@
       <updated>1676119201825</updated>
       <workItem from="1676119203286" duration="21597000" />
       <workItem from="1676267783672" duration="3196000" />
-      <workItem from="1676871320436" duration="1385000" />
+      <workItem from="1676871320436" duration="2683000" />
     </task>
     <servers />
   </component>
