@@ -31,6 +31,3 @@ public class Test1 {
 		System.out.println(list);
 	}
 }
-
-
-//[1, 4, 5, 2, 3, 9, 8, 11, 0]

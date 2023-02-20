@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6542acde-3eaa-44bf-a975-831ea20f1bdc" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/yandex/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/yandex/Test1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/yandex/test" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,20 +44,7 @@
     "nodejs_package_manager_path": "npm"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Test3">
-    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.yandex.Test1" />
-      <module name="tinckoff" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.yandex.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Test7">
     <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.yandex.Test2" />
       <module name="tinckoff" />
@@ -96,8 +84,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.tinkoff.Test6" />
+    <configuration name="Test4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.yandex.Test4" />
+      <module name="tinckoff" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.yandex.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.tinkoff.Test7" />
       <module name="tinckoff" />
       <extension name="coverage">
         <pattern>
@@ -111,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test7" />
+        <item itemvalue="Application.Test4" />
         <item itemvalue="Application.Test3" />
         <item itemvalue="Application.Test2_2" />
         <item itemvalue="Application.Test2" />
-        <item itemvalue="Application.Test1" />
-        <item itemvalue="Application.Test6" />
       </list>
     </recent_temporary>
   </component>
@@ -129,7 +130,7 @@
       <updated>1676119201825</updated>
       <workItem from="1676119203286" duration="21597000" />
       <workItem from="1676267783672" duration="3196000" />
-      <workItem from="1676871320436" duration="2683000" />
+      <workItem from="1676871320436" duration="6576000" />
     </task>
     <servers />
   </component>
